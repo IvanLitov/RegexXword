@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ivan\.android\build-cache\01a39171b7bca9aefafc2d4cabdc5ce9d9135421\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Code\BeanStalk\AndroidStudio\RegexXword\app\build\intermediates\pre-dexed\debug\classes_ff5ca46c0fb0c2a9cf4470b5010feabb85ab96aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ivan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Code\BeanStalk\AndroidStudio\RegexXword\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_2fdc73f83e5f3ae8dc2dd3ad5bcff5cafbbabacb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ivan\.android\build-cache\01a39171b7bca9aefafc2d4cabdc5ce9d9135421\output\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Code\BeanStalk\AndroidStudio\RegexXword\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_c4a42cb69c4f1651dee6fdf9fbf1d2b84a732b7d.jar" />
+    </item>
+
+</items>

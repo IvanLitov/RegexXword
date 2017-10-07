@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cell_base.png",
+        "source": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\src\\main\\res\\drawable-xhdpi\\cell_base.png"
+    },
+    {
+        "merged": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cell_fixed.png",
+        "source": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\src\\main\\res\\drawable-xhdpi\\cell_fixed.png"
+    },
+    {
+        "merged": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cell_reflection.png",
+        "source": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\src\\main\\res\\drawable-xhdpi\\cell_reflection.png"
+    },
+    {
+        "merged": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_success.png",
+        "source": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\src\\main\\res\\drawable-xhdpi\\img_success.png"
+    },
+    {
+        "merged": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\img_failure.png",
+        "source": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\src\\main\\res\\drawable-xhdpi\\img_failure.png"
+    },
+    {
+        "merged": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\big_logo.png",
+        "source": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\src\\main\\res\\drawable-xhdpi\\big_logo.png"
+    },
+    {
+        "merged": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cell_selected.png",
+        "source": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\src\\main\\res\\drawable-xhdpi\\cell_selected.png"
+    },
+    {
+        "merged": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\background_letters.png",
+        "source": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\src\\main\\res\\drawable-xhdpi\\background_letters.png"
+    }
+]

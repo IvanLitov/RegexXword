@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\Ivan\.android\build-cache\01a39171b7bca9aefafc2d4cabdc5ce9d9135421\output\assets"/></dataSet><dataSet config="main"><source path="C:\Code\BeanStalk\AndroidStudio\RegexXword\app\src\main\assets"/><source path="C:\Code\BeanStalk\AndroidStudio\RegexXword\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Code\BeanStalk\AndroidStudio\RegexXword\app\src\debug\assets"/></dataSet></merger>

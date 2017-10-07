@@ -1,0 +1,9 @@
+#Internal package file, do not edit.
+#Sat Oct 07 18:33:03 BST 2017
+1.file=C\:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\build\\intermediates\\res\\resources-debug-androidTest.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+0.file=C\:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\build\\intermediates\\transforms\\dex\\androidTest\\debug\\folders\\1000\\1f\\main\\classes.dex
+1.base=C\:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\build\\intermediates\\res\\resources-debug-androidTest.ap_
+0.base=C\:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\build\\intermediates\\transforms\\dex\\androidTest\\debug\\folders\\1000\\1f\\main
+0.set=DEX
+count=2

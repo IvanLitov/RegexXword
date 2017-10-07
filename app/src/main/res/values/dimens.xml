@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <dimen name="menu_item_gap">30dp</dimen>
+    <dimen name="progress_bar_margin">5dp</dimen>
+    <dimen name="standard_gap">10dp</dimen>
+    
+</resources>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_dialog_layout.xml",
+        "source": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\src\\main\\res\\layout\\game_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_map.xml",
+        "source": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit.xml",
+        "source": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\src\\main\\res\\layout\\activity_edit.xml"
+    },
+    {
+        "merged": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_size_menu.xml",
+        "source": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\src\\main\\res\\layout\\activity_size_menu.xml"
+    },
+    {
+        "merged": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_menu.xml",
+        "source": "C:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\src\\main\\res\\layout\\activity_main_menu.xml"
+    }
+]

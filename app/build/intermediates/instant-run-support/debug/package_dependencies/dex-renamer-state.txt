@@ -1,0 +1,10 @@
+#Sat Oct 07 18:12:11 BST 2017
+renamed.2=classes2.dex
+renamed.1=classes.dex
+renamed.0=classes3.dex
+base.2=C\:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_c4a42cb69c4f1651dee6fdf9fbf1d2b84a732b7d
+base.1=C\:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ff5ca46c0fb0c2a9cf4470b5010feabb85ab96aa
+base.0=C\:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_2fdc73f83e5f3ae8dc2dd3ad5bcff5cafbbabacb
+file.2=C\:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_c4a42cb69c4f1651dee6fdf9fbf1d2b84a732b7d\\classes.dex
+file.1=C\:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ff5ca46c0fb0c2a9cf4470b5010feabb85ab96aa\\classes.dex
+file.0=C\:\\Code\\BeanStalk\\AndroidStudio\\RegexXword\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_2fdc73f83e5f3ae8dc2dd3ad5bcff5cafbbabacb\\classes.dex

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Regex Xword</string>
+
+    <string name="btn_new">New Xword</string>
+    <string name="btn_resume">Resume Xword</string>
+    <string name="btn_orig">Original MIT Xword</string>
+    <string name="btn_small">Small</string>
+    <string name="btn_medium">Medium</string>
+    <string name="btn_large">Large</string>
+    <string name="content_attr">.</string>
+
+    <string name="progress_bar_caption">Building your xword</string>
+
+    <string name="bad_map_main">This one did not come out too well.</string>
+    <string name="bad_map_sub">Would you like to try another one?</string>
+    <string name="final_success_main">Congrats! You solved it.</string>
+    <string name="final_success_sub">Your time was: </string>
+    <string name="final_fail_main">Sorry, some of the cells are not correct.</string>
+    <string name="final_fail_sub">Do you want to clear the incorrect values?</string>
+    
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+    
+</resources>
